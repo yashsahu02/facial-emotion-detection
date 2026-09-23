@@ -1,0 +1,5 @@
+[server]
+fileWatcherType = "none"
+
+# So during development, after changing code, you may need to manually rerun/restart the Streamlit app.
+# If you prefer automatic reload, another option is: fileWatcherType = "poll"

@@ -1,0 +1,10 @@
+What each file does
+File	Responsibility
+config.py	Configuration/model settings
+face_detector.py	Detect faces
+emotion_detector.py	Predict emotion
+pipeline.py	Combine detection + prediction
+test_face_detector.py	Test face detection
+test_emotion_detector.py	Test emotion model
+test_pipeline.py	Test complete backend
+test_model.py	Original model experiment/reference
